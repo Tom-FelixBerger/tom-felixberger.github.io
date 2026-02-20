@@ -1,0 +1,26 @@
+baseURL = "https://tfberger.github.io/"
+title = "Tom-Felix Berger"
+theme = "hugo-paper"
+languageCode = "en-us"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  github = "Tom-FelixBerger"
+  linkedin = "tom-felix-berger-b209a3262"
+  email = "tom-felix.berger@ruhr-uni-bochum.de"
+
+[menu]
+
+[[menu.main]]
+name = "Publications"
+url = "/publications/"
+weight = 1
+
+[[menu.main]]
+name = "CV"
+url = "/cv/"
+weight = 2
