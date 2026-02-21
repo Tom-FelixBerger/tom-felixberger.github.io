@@ -5,7 +5,7 @@ title: "Publications"
 ## Journal Articles
 
 ------------------
-## Conference Talks
+## Conference Talks and Proceedings
 
 ------------------
 ## Under Review
