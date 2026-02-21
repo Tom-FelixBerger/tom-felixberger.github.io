@@ -13,6 +13,7 @@ languageCode = "en-us"
   github = "Tom-FelixBerger"
   linkedin = "tom-felix-berger-b209a3262"
   email = "tom-felix.berger@ruhr-uni-bochum.de"
+  favicon = "favicon.png"
 
 [menu]
 
