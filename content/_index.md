@@ -8,7 +8,7 @@ title: "Tom-Felix Berger"
 
 Hi! I'm a predoctoral researcher in philosophy at the Ruhr University Bochum.
 
-My philosophical research is on **philosophy of AI**, including questions such as: What is it for an AI to deceive? And how can we ascribe beliefs, desires, or intentions to AI? My technical research focuses on detection and mitigation approaches of LLM deception rooted in **mechanistic interpretability**.
+My research focus is on **philosophy of AI**, including questions such as: What is it for an AI to deceive? And how can we ascribe beliefs, desires, or intentions to AI? I also conduct more technical research on detection and mitigation approaches of LLM deception rooted in **mechanistic interpretability**.
 
   </div>
 </div>
